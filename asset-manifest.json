@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/reactRouterPrototype/static/css/main.765fe888.chunk.css",
+    "main.js": "/reactRouterPrototype/static/js/main.cfab0ba3.chunk.js",
+    "main.js.map": "/reactRouterPrototype/static/js/main.cfab0ba3.chunk.js.map",
+    "runtime-main.js": "/reactRouterPrototype/static/js/runtime-main.6c7d3c67.js",
+    "runtime-main.js.map": "/reactRouterPrototype/static/js/runtime-main.6c7d3c67.js.map",
+    "static/js/2.10feef26.chunk.js": "/reactRouterPrototype/static/js/2.10feef26.chunk.js",
+    "static/js/2.10feef26.chunk.js.map": "/reactRouterPrototype/static/js/2.10feef26.chunk.js.map",
+    "static/css/3.314dc00e.chunk.css": "/reactRouterPrototype/static/css/3.314dc00e.chunk.css",
+    "static/js/3.f6f03c4f.chunk.js": "/reactRouterPrototype/static/js/3.f6f03c4f.chunk.js",
+    "static/js/3.f6f03c4f.chunk.js.map": "/reactRouterPrototype/static/js/3.f6f03c4f.chunk.js.map",
+    "static/css/4.b0b09425.chunk.css": "/reactRouterPrototype/static/css/4.b0b09425.chunk.css",
+    "static/js/4.5c3e8173.chunk.js": "/reactRouterPrototype/static/js/4.5c3e8173.chunk.js",
+    "static/js/4.5c3e8173.chunk.js.map": "/reactRouterPrototype/static/js/4.5c3e8173.chunk.js.map",
+    "static/css/5.0cf2a555.chunk.css": "/reactRouterPrototype/static/css/5.0cf2a555.chunk.css",
+    "static/js/5.b0683f55.chunk.js": "/reactRouterPrototype/static/js/5.b0683f55.chunk.js",
+    "static/js/5.b0683f55.chunk.js.map": "/reactRouterPrototype/static/js/5.b0683f55.chunk.js.map",
+    "static/js/6.920c6ff8.chunk.js": "/reactRouterPrototype/static/js/6.920c6ff8.chunk.js",
+    "static/js/6.920c6ff8.chunk.js.map": "/reactRouterPrototype/static/js/6.920c6ff8.chunk.js.map",
+    "index.html": "/reactRouterPrototype/index.html",
+    "static/css/3.314dc00e.chunk.css.map": "/reactRouterPrototype/static/css/3.314dc00e.chunk.css.map",
+    "static/css/4.b0b09425.chunk.css.map": "/reactRouterPrototype/static/css/4.b0b09425.chunk.css.map",
+    "static/css/5.0cf2a555.chunk.css.map": "/reactRouterPrototype/static/css/5.0cf2a555.chunk.css.map",
+    "static/css/main.765fe888.chunk.css.map": "/reactRouterPrototype/static/css/main.765fe888.chunk.css.map",
+    "static/js/2.10feef26.chunk.js.LICENSE.txt": "/reactRouterPrototype/static/js/2.10feef26.chunk.js.LICENSE.txt",
+    "static/js/3.f6f03c4f.chunk.js.LICENSE.txt": "/reactRouterPrototype/static/js/3.f6f03c4f.chunk.js.LICENSE.txt",
+    "static/js/4.5c3e8173.chunk.js.LICENSE.txt": "/reactRouterPrototype/static/js/4.5c3e8173.chunk.js.LICENSE.txt",
+    "static/js/5.b0683f55.chunk.js.LICENSE.txt": "/reactRouterPrototype/static/js/5.b0683f55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c7d3c67.js",
+    "static/js/2.10feef26.chunk.js",
+    "static/css/main.765fe888.chunk.css",
+    "static/js/main.cfab0ba3.chunk.js"
+  ]
+}
